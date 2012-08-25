@@ -1,0 +1,205 @@
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	margin:0px;
+	background:#FEFEFE;
+	color:#FFFFFF;
+}
+
+a img {
+	border:0px;
+}
+
+h1 {
+	height:110px;
+	background:url(../imgs/Banner.jpg) no-repeat;
+	margin:0 0 0 7;
+}
+
+ol#menu {
+	list-style-type:none;
+	height:30px;
+	width:730px;
+	margin:0 0 0 1;
+}
+
+ol#menu li {
+	float:left;
+}
+
+ol#acoes {
+	list-style-type:none;
+	width:200px;
+}
+
+ol#acoes li {
+	float:left;
+	margin-left:8;
+}
+
+ol#acoes li#bemvindo {
+	margin-top:5;
+}
+
+ol#menu li.linha {
+	height:30px;
+	width:0px;
+	border-left:1px solid #999999;
+	border-right:1px solid #333333;
+}
+
+a:link, a:visited, a:active {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+a#linklista {
+	font-size:10px;
+	text-decoration:none;
+}
+
+div#centro {
+	width:744px;
+	background:url(../imgs/bordasFundo.png) repeat-y;
+}
+
+div#conteudo {
+	width:730px;
+	background:#3d6255;
+	height:375px;
+	color:#FFFFFF;
+	padding: 10 0 0 0;
+}
+
+div#barraFinal{
+	height:55px;
+	background:url(../imgs/fundoBarraInferior.png) repeat-x;
+	width:730px;
+	margin:0 0 0 1;
+	padding:8 0 0 0;
+	color:#FFFFFF;
+}
+
+input.campos {
+	width:76px;
+	height:15px;
+	border-width:0px;
+	font-family:verdana;
+	background-color:#579375;
+	font-size:10px;
+	color:#FFFFFF;
+}
+
+input.radioAvatar {
+	margin: 0 0 10 0;
+}
+
+input.botoesMenu {
+	height:20px;
+	background:url(../imgs/fundoBarraMenu.png) repeat-x;
+	font-size:10px;
+	height:30px;
+	width:140px;
+	border:none;
+}
+
+input#botoesFormulario {
+	width:80px;
+	height:20px;
+}
+
+input#perfilPersonagens {
+	width:162px;
+}
+
+input#ok {
+	width:45px;
+	height:16px;
+	margin:0 0 0 8;
+}
+
+input#convite {
+	width:100px;
+	height:20px;
+}
+
+input#edJogador {
+	width:120px;
+}
+
+input#tituloNoticia{
+	width:160px;
+}
+
+input#fcnome {
+	width:150px;
+}
+
+input#fcemail {
+	width:140px;
+}
+
+select#assunto {
+	width:100px;
+	height:15px;
+	font-family:verdana;
+	background-color:#579375;
+	font-size:10px;
+	color:#FFFFFF;
+}
+
+textarea#conteudo {
+	border-width:0px;
+	font-family:verdana;
+	background-color:#579375;
+	font-size:10px;
+	color:#FFFFFF;
+}
+
+fieldset#cadastro {
+	width:350px;
+	padding:15 0 10 0;
+}
+
+fieldset#cadlistAdministrador {
+	width:200px;
+	padding:0 0 15 18;
+}
+
+img#deslogar {
+	position:absolute;
+	margin-top:-5;
+}
+
+img#listar {
+	position:absolute;
+	margin: -4 0 0 -23;
+}
+
+img#seguranca {
+	position:absolute;
+	margin:50 0 0 -150;
+}
+
+form {
+	margin:0 0 0 0;
+}
+
+table th {
+	padding:10 5 10 5;
+	font-size:12px;
+}
+
+table td {
+	text-align: center;
+	font-size:12px;
+	padding:1;
+}
+
+legend#legenda {
+	color:#FFFFFF;
+}

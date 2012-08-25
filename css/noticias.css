@@ -1,0 +1,29 @@
+table#noticias{
+	width:250px;
+	border-bottom:dotted #999999 1px;
+}
+
+table#noticias tr td{
+	text-align:left;
+	font-size:10px;
+	padding:0 0 10 0;
+}
+
+div#noticiaExibida{
+	text-align:justify;
+	width: 350px;
+}
+
+a#titulo{
+	color:#99CC00;
+	font-size:14px;
+}
+
+.cor{
+	color:#99CC00;
+}
+
+a#leiamais{
+	color:#99CC00;
+	font-size:11px;
+}
