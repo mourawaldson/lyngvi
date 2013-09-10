@@ -1,7 +1,7 @@
 ## Info
 Academic project in 3rd period 2007 / Technical Course in Software Development
 
-PCC (Projeto de Conclusão de Curso).
+Lyngvi is a RPG.
 
 Developed in PHP with MySQL.
 
